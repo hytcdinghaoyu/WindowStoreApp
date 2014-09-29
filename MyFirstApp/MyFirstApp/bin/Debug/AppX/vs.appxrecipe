@@ -1,0 +1,603 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>STUDENT</Machine>
+    <WindowsUser>just</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>1fdc450f-12d8-490b-8b84-d1407feaea22</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\just\documents\visual studio 2013\Projects\MyFirstApp\MyFirstApp\obj\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>CF41BCD04F21680D7C8C08DB1F5568E1ABDE892225325F2D477D35BFD357E712</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>1fdc450f-12d8-490b-8b84-d1407feaea22_1.0.0.0_neutral__scs3de4092tee</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>1fdc450f-12d8-490b-8b84-d1407feaea22_scs3de4092tee!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>1fdc450f-12d8-490b-8b84-d1407feaea22</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=just</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\just\documents\visual studio 2013\Projects\MyFirstApp\MyFirstApp\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-09-29T08:39:56.553</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\just\documents\visual studio 2013\Projects\MyFirstApp\MyFirstApp\bin\Debug\MyFirstApp.exe">
+      <PackagePath>MyFirstApp.exe</PackagePath>
+      <Modified>2014-09-29T08:39:56.327</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\documents\visual studio 2013\Projects\MyFirstApp\MyFirstApp\Assets\LargeLogo.scale-100.png">
+      <PackagePath>Assets\LargeLogo.scale-100.png</PackagePath>
+      <Modified>2014-09-24T12:48:56.110</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\documents\visual studio 2013\Projects\MyFirstApp\MyFirstApp\Assets\WideLogo.scale-100.png">
+      <PackagePath>Assets\WideLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-09-28T06:27:44.970</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\documents\visual studio 2013\Projects\MyFirstApp\MyFirstApp\Images\header.png">
+      <PackagePath>Images\header.png</PackagePath>
+      <Modified>2014-09-28T07:38:23.535</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\documents\visual studio 2013\Projects\MyFirstApp\MyFirstApp\Images\XiJia\barca.png">
+      <PackagePath>Images\XiJia\barca.png</PackagePath>
+      <Modified>2014-09-29T08:28:04.467</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\documents\visual studio 2013\Projects\MyFirstApp\MyFirstApp\Images\XiJia\madeli.png">
+      <PackagePath>Images\XiJia\madeli.png</PackagePath>
+      <Modified>2014-09-29T08:39:21.377</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\documents\visual studio 2013\Projects\MyFirstApp\MyFirstApp\Images\Yingchao\arsenal.png">
+      <PackagePath>Images\Yingchao\arsenal.png</PackagePath>
+      <Modified>2014-09-28T11:48:47.627</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\documents\visual studio 2013\Projects\MyFirstApp\MyFirstApp\Images\Yingchao\liverpool.png">
+      <PackagePath>Images\Yingchao\liverpool.png</PackagePath>
+      <Modified>2014-09-28T12:44:40.154</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\documents\visual studio 2013\Projects\MyFirstApp\MyFirstApp\Images\Yingchao\mancity.png">
+      <PackagePath>Images\Yingchao\mancity.png</PackagePath>
+      <Modified>2014-09-28T12:28:17.311</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\documents\visual studio 2013\Projects\MyFirstApp\MyFirstApp\Images\Yingchao\manunited.png">
+      <PackagePath>Images\Yingchao\manunited.png</PackagePath>
+      <Modified>2014-09-28T12:08:31.180</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\documents\visual studio 2013\Projects\MyFirstApp\MyFirstApp\Images\Yingchao\Yingchao_1_150_C.png">
+      <PackagePath>Images\Yingchao\Yingchao_1_150_C.png</PackagePath>
+      <Modified>2014-09-28T11:43:59.263</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\documents\visual studio 2013\Projects\MyFirstApp\MyFirstApp\Images\Chinese\chinese_group.png">
+      <PackagePath>Images\Chinese\chinese_group.png</PackagePath>
+      <Modified>2014-09-24T07:27:12.751</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\documents\visual studio 2013\Projects\MyFirstApp\MyFirstApp\Images\Chinese\chinese_group_detail.png">
+      <PackagePath>Images\Chinese\chinese_group_detail.png</PackagePath>
+      <Modified>2014-09-24T07:27:12.755</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\documents\visual studio 2013\Projects\MyFirstApp\MyFirstApp\Images\Chinese\chinese_group_header.png">
+      <PackagePath>Images\Chinese\chinese_group_header.png</PackagePath>
+      <Modified>2014-09-24T07:27:12.758</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\documents\visual studio 2013\Projects\MyFirstApp\MyFirstApp\Images\French\french_group.png">
+      <PackagePath>Images\French\french_group.png</PackagePath>
+      <Modified>2014-09-24T07:27:12.789</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\documents\visual studio 2013\Projects\MyFirstApp\MyFirstApp\Images\French\french_group_detail.png">
+      <PackagePath>Images\French\french_group_detail.png</PackagePath>
+      <Modified>2014-09-24T07:27:12.791</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\documents\visual studio 2013\Projects\MyFirstApp\MyFirstApp\Images\French\french_group_header.png">
+      <PackagePath>Images\French\french_group_header.png</PackagePath>
+      <Modified>2014-09-24T07:27:12.793</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\documents\visual studio 2013\Projects\MyFirstApp\MyFirstApp\Images\German\german_group.png">
+      <PackagePath>Images\German\german_group.png</PackagePath>
+      <Modified>2014-09-24T07:27:12.822</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\documents\visual studio 2013\Projects\MyFirstApp\MyFirstApp\Images\German\german_group_detail.png">
+      <PackagePath>Images\German\german_group_detail.png</PackagePath>
+      <Modified>2014-09-24T07:27:12.824</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\documents\visual studio 2013\Projects\MyFirstApp\MyFirstApp\Images\German\german_group_header.png">
+      <PackagePath>Images\German\german_group_header.png</PackagePath>
+      <Modified>2014-09-24T07:27:12.826</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\documents\visual studio 2013\Projects\MyFirstApp\MyFirstApp\Images\Hero.png">
+      <PackagePath>Images\Hero.png</PackagePath>
+      <Modified>2014-09-24T07:27:12.834</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\documents\visual studio 2013\Projects\MyFirstApp\MyFirstApp\Images\Indian\indian_group.png">
+      <PackagePath>Images\Indian\indian_group.png</PackagePath>
+      <Modified>2014-09-24T07:27:12.874</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\documents\visual studio 2013\Projects\MyFirstApp\MyFirstApp\Images\Indian\indian_group_detail.png">
+      <PackagePath>Images\Indian\indian_group_detail.png</PackagePath>
+      <Modified>2014-09-24T07:27:12.876</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\documents\visual studio 2013\Projects\MyFirstApp\MyFirstApp\Images\Indian\indian_group_header.png">
+      <PackagePath>Images\Indian\indian_group_header.png</PackagePath>
+      <Modified>2014-09-24T07:27:12.878</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\documents\visual studio 2013\Projects\MyFirstApp\MyFirstApp\Images\Italian\italian_group.png">
+      <PackagePath>Images\Italian\italian_group.png</PackagePath>
+      <Modified>2014-09-24T07:27:12.920</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\documents\visual studio 2013\Projects\MyFirstApp\MyFirstApp\Images\Italian\italian_group_detail.png">
+      <PackagePath>Images\Italian\italian_group_detail.png</PackagePath>
+      <Modified>2014-09-24T07:27:12.922</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\documents\visual studio 2013\Projects\MyFirstApp\MyFirstApp\Images\Italian\italian_group_header.png">
+      <PackagePath>Images\Italian\italian_group_header.png</PackagePath>
+      <Modified>2014-09-24T07:27:12.924</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\documents\visual studio 2013\Projects\MyFirstApp\MyFirstApp\Images\Mexican\mexican_group.png">
+      <PackagePath>Images\Mexican\mexican_group.png</PackagePath>
+      <Modified>2014-09-24T07:27:12.947</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\documents\visual studio 2013\Projects\MyFirstApp\MyFirstApp\Images\Mexican\mexican_group_detail.png">
+      <PackagePath>Images\Mexican\mexican_group_detail.png</PackagePath>
+      <Modified>2014-09-24T07:27:12.949</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\documents\visual studio 2013\Projects\MyFirstApp\MyFirstApp\Images\Mexican\mexican_group_header.png">
+      <PackagePath>Images\Mexican\mexican_group_header.png</PackagePath>
+      <Modified>2014-09-24T07:27:12.951</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\documents\visual studio 2013\Projects\MyFirstApp\MyFirstApp\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-09-25T11:49:29.283</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\documents\visual studio 2013\Projects\MyFirstApp\MyFirstApp\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-09-25T12:09:07.821</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\documents\visual studio 2013\Projects\MyFirstApp\MyFirstApp\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-09-28T02:04:36.882</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\documents\visual studio 2013\Projects\MyFirstApp\MyFirstApp\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-09-25T11:42:40.558</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\documents\visual studio 2013\Projects\MyFirstApp\MyFirstApp\Assets\LightGray.png">
+      <PackagePath>Assets\LightGray.png</PackagePath>
+      <Modified>2013-09-24T16:00:42.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\documents\visual studio 2013\Projects\MyFirstApp\MyFirstApp\Assets\MediumGray.png">
+      <PackagePath>Assets\MediumGray.png</PackagePath>
+      <Modified>2013-09-24T16:00:42.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\documents\visual studio 2013\Projects\MyFirstApp\MyFirstApp\Assets\DarkGray.png">
+      <PackagePath>Assets\DarkGray.png</PackagePath>
+      <Modified>2013-09-24T16:00:42.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\documents\visual studio 2013\Projects\MyFirstApp\MyFirstApp\Images\Yingchao\arsenal.jpg">
+      <PackagePath>Images\Yingchao\arsenal.jpg</PackagePath>
+      <Modified>2014-09-28T11:45:09.350</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\documents\visual studio 2013\Projects\MyFirstApp\MyFirstApp\Images\Yingchao\Yingchao_1_150_C.jpg">
+      <PackagePath>Images\Yingchao\Yingchao_1_150_C.jpg</PackagePath>
+      <Modified>2014-09-28T11:13:37.136</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\documents\visual studio 2013\Projects\MyFirstApp\MyFirstApp\Images\Bread.jpg">
+      <PackagePath>Images\Bread.jpg</PackagePath>
+      <Modified>2014-09-26T09:07:20.682</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\documents\visual studio 2013\Projects\MyFirstApp\MyFirstApp\Images\Chinese\Chinese_1_150_C.jpg">
+      <PackagePath>Images\Chinese\Chinese_1_150_C.jpg</PackagePath>
+      <Modified>2014-09-24T07:27:12.699</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\documents\visual studio 2013\Projects\MyFirstApp\MyFirstApp\Images\Chinese\Chinese_1_600_C.jpg">
+      <PackagePath>Images\Chinese\Chinese_1_600_C.jpg</PackagePath>
+      <Modified>2014-09-27T01:52:30.881</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\documents\visual studio 2013\Projects\MyFirstApp\MyFirstApp\Images\Chinese\Chinese_2_150_C.jpg">
+      <PackagePath>Images\Chinese\Chinese_2_150_C.jpg</PackagePath>
+      <Modified>2014-09-24T07:27:12.707</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\documents\visual studio 2013\Projects\MyFirstApp\MyFirstApp\Images\Chinese\Chinese_2_600_C.jpg">
+      <PackagePath>Images\Chinese\Chinese_2_600_C.jpg</PackagePath>
+      <Modified>2014-09-24T07:27:12.712</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\documents\visual studio 2013\Projects\MyFirstApp\MyFirstApp\Images\Chinese\Chinese_3_150_C.jpg">
+      <PackagePath>Images\Chinese\Chinese_3_150_C.jpg</PackagePath>
+      <Modified>2014-09-24T07:27:12.717</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\documents\visual studio 2013\Projects\MyFirstApp\MyFirstApp\Images\Chinese\Chinese_3_600_C.jpg">
+      <PackagePath>Images\Chinese\Chinese_3_600_C.jpg</PackagePath>
+      <Modified>2014-09-24T07:27:12.721</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\documents\visual studio 2013\Projects\MyFirstApp\MyFirstApp\Images\Chinese\Chinese_4_150_C.jpg">
+      <PackagePath>Images\Chinese\Chinese_4_150_C.jpg</PackagePath>
+      <Modified>2014-09-24T07:27:12.725</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\documents\visual studio 2013\Projects\MyFirstApp\MyFirstApp\Images\Chinese\Chinese_4_600_C.jpg">
+      <PackagePath>Images\Chinese\Chinese_4_600_C.jpg</PackagePath>
+      <Modified>2014-09-24T07:27:12.729</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\documents\visual studio 2013\Projects\MyFirstApp\MyFirstApp\Images\Chinese\Chinese_5_150_C.jpg">
+      <PackagePath>Images\Chinese\Chinese_5_150_C.jpg</PackagePath>
+      <Modified>2014-09-24T07:27:12.733</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\documents\visual studio 2013\Projects\MyFirstApp\MyFirstApp\Images\Chinese\Chinese_5_600_C.jpg">
+      <PackagePath>Images\Chinese\Chinese_5_600_C.jpg</PackagePath>
+      <Modified>2014-09-24T07:27:12.736</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\documents\visual studio 2013\Projects\MyFirstApp\MyFirstApp\Images\Chinese\Chinese_6_150_C.jpg">
+      <PackagePath>Images\Chinese\Chinese_6_150_C.jpg</PackagePath>
+      <Modified>2014-09-24T07:27:12.740</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\documents\visual studio 2013\Projects\MyFirstApp\MyFirstApp\Images\Chinese\Chinese_6_310_C.jpg">
+      <PackagePath>Images\Chinese\Chinese_6_310_C.jpg</PackagePath>
+      <Modified>2014-09-24T07:27:12.744</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\documents\visual studio 2013\Projects\MyFirstApp\MyFirstApp\Images\Chinese\Chinese_6_600_C.jpg">
+      <PackagePath>Images\Chinese\Chinese_6_600_C.jpg</PackagePath>
+      <Modified>2014-09-24T07:27:12.748</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\documents\visual studio 2013\Projects\MyFirstApp\MyFirstApp\Images\French\French_1_150_C.jpg">
+      <PackagePath>Images\French\French_1_150_C.jpg</PackagePath>
+      <Modified>2014-09-24T07:27:12.761</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\documents\visual studio 2013\Projects\MyFirstApp\MyFirstApp\Images\French\French_1_600_C.jpg">
+      <PackagePath>Images\French\French_1_600_C.jpg</PackagePath>
+      <Modified>2014-09-24T07:27:12.763</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\documents\visual studio 2013\Projects\MyFirstApp\MyFirstApp\Images\French\French_2_150_C.jpg">
+      <PackagePath>Images\French\French_2_150_C.jpg</PackagePath>
+      <Modified>2014-09-24T07:27:12.766</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\documents\visual studio 2013\Projects\MyFirstApp\MyFirstApp\Images\French\French_2_310_C.jpg">
+      <PackagePath>Images\French\French_2_310_C.jpg</PackagePath>
+      <Modified>2014-09-24T07:27:12.768</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\documents\visual studio 2013\Projects\MyFirstApp\MyFirstApp\Images\French\French_2_600_C.jpg">
+      <PackagePath>Images\French\French_2_600_C.jpg</PackagePath>
+      <Modified>2014-09-24T07:27:12.770</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\documents\visual studio 2013\Projects\MyFirstApp\MyFirstApp\Images\French\French_3_150_C.jpg">
+      <PackagePath>Images\French\French_3_150_C.jpg</PackagePath>
+      <Modified>2014-09-24T07:27:12.772</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\documents\visual studio 2013\Projects\MyFirstApp\MyFirstApp\Images\French\French_3_600_C.jpg">
+      <PackagePath>Images\French\French_3_600_C.jpg</PackagePath>
+      <Modified>2014-09-24T07:27:12.775</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\documents\visual studio 2013\Projects\MyFirstApp\MyFirstApp\Images\French\French_4_150_C.jpg">
+      <PackagePath>Images\French\French_4_150_C.jpg</PackagePath>
+      <Modified>2014-09-24T07:27:12.777</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\documents\visual studio 2013\Projects\MyFirstApp\MyFirstApp\Images\French\French_4_600_C.jpg">
+      <PackagePath>Images\French\French_4_600_C.jpg</PackagePath>
+      <Modified>2014-09-24T07:27:12.779</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\documents\visual studio 2013\Projects\MyFirstApp\MyFirstApp\Images\French\French_5_150_C.jpg">
+      <PackagePath>Images\French\French_5_150_C.jpg</PackagePath>
+      <Modified>2014-09-24T07:27:12.780</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\documents\visual studio 2013\Projects\MyFirstApp\MyFirstApp\Images\French\French_5_600_C.jpg">
+      <PackagePath>Images\French\French_5_600_C.jpg</PackagePath>
+      <Modified>2014-09-24T07:27:12.782</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\documents\visual studio 2013\Projects\MyFirstApp\MyFirstApp\Images\French\French_6_150_C.jpg">
+      <PackagePath>Images\French\French_6_150_C.jpg</PackagePath>
+      <Modified>2014-09-24T07:27:12.784</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\documents\visual studio 2013\Projects\MyFirstApp\MyFirstApp\Images\French\French_6_600_C.jpg">
+      <PackagePath>Images\French\French_6_600_C.jpg</PackagePath>
+      <Modified>2014-09-24T07:27:12.786</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\documents\visual studio 2013\Projects\MyFirstApp\MyFirstApp\Images\German\German_1_150_C.jpg">
+      <PackagePath>Images\German\German_1_150_C.jpg</PackagePath>
+      <Modified>2014-09-24T07:27:12.795</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\documents\visual studio 2013\Projects\MyFirstApp\MyFirstApp\Images\German\German_1_600_C.jpg">
+      <PackagePath>Images\German\German_1_600_C.jpg</PackagePath>
+      <Modified>2014-09-24T07:27:12.797</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\documents\visual studio 2013\Projects\MyFirstApp\MyFirstApp\Images\German\German_2_150_C.jpg">
+      <PackagePath>Images\German\German_2_150_C.jpg</PackagePath>
+      <Modified>2014-09-24T07:27:12.800</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\documents\visual studio 2013\Projects\MyFirstApp\MyFirstApp\Images\German\German_2_600_C.jpg">
+      <PackagePath>Images\German\German_2_600_C.jpg</PackagePath>
+      <Modified>2014-09-24T07:27:12.802</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\documents\visual studio 2013\Projects\MyFirstApp\MyFirstApp\Images\German\German_3_150_C.jpg">
+      <PackagePath>Images\German\German_3_150_C.jpg</PackagePath>
+      <Modified>2014-09-24T07:27:12.803</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\documents\visual studio 2013\Projects\MyFirstApp\MyFirstApp\Images\German\German_3_600_C.jpg">
+      <PackagePath>Images\German\German_3_600_C.jpg</PackagePath>
+      <Modified>2014-09-24T07:27:12.806</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\documents\visual studio 2013\Projects\MyFirstApp\MyFirstApp\Images\German\German_4_150_C.jpg">
+      <PackagePath>Images\German\German_4_150_C.jpg</PackagePath>
+      <Modified>2014-09-24T07:27:12.808</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\documents\visual studio 2013\Projects\MyFirstApp\MyFirstApp\Images\German\German_4_310_C.jpg">
+      <PackagePath>Images\German\German_4_310_C.jpg</PackagePath>
+      <Modified>2014-09-24T07:27:12.810</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\documents\visual studio 2013\Projects\MyFirstApp\MyFirstApp\Images\German\German_4_600_C.jpg">
+      <PackagePath>Images\German\German_4_600_C.jpg</PackagePath>
+      <Modified>2014-09-24T07:27:12.812</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\documents\visual studio 2013\Projects\MyFirstApp\MyFirstApp\Images\German\German_5_150_C.jpg">
+      <PackagePath>Images\German\German_5_150_C.jpg</PackagePath>
+      <Modified>2014-09-24T07:27:12.814</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\documents\visual studio 2013\Projects\MyFirstApp\MyFirstApp\Images\German\German_5_600_C.jpg">
+      <PackagePath>Images\German\German_5_600_C.jpg</PackagePath>
+      <Modified>2014-09-24T07:27:12.816</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\documents\visual studio 2013\Projects\MyFirstApp\MyFirstApp\Images\German\German_6_150_C.jpg">
+      <PackagePath>Images\German\German_6_150_C.jpg</PackagePath>
+      <Modified>2014-09-24T07:27:12.818</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\documents\visual studio 2013\Projects\MyFirstApp\MyFirstApp\Images\German\German_6_600_C.jpg">
+      <PackagePath>Images\German\German_6_600_C.jpg</PackagePath>
+      <Modified>2014-09-24T07:27:12.820</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\documents\visual studio 2013\Projects\MyFirstApp\MyFirstApp\Images\Grain.jpg">
+      <PackagePath>Images\Grain.jpg</PackagePath>
+      <Modified>2014-09-26T09:09:15.537</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\documents\visual studio 2013\Projects\MyFirstApp\MyFirstApp\Images\Indian\Indian_1_150_C.jpg">
+      <PackagePath>Images\Indian\Indian_1_150_C.jpg</PackagePath>
+      <Modified>2014-09-24T07:27:12.837</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\documents\visual studio 2013\Projects\MyFirstApp\MyFirstApp\Images\Indian\Indian_1_600_C.jpg">
+      <PackagePath>Images\Indian\Indian_1_600_C.jpg</PackagePath>
+      <Modified>2014-09-24T07:27:12.840</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\documents\visual studio 2013\Projects\MyFirstApp\MyFirstApp\Images\Indian\Indian_2_150_C.jpg">
+      <PackagePath>Images\Indian\Indian_2_150_C.jpg</PackagePath>
+      <Modified>2014-09-24T07:27:12.857</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\documents\visual studio 2013\Projects\MyFirstApp\MyFirstApp\Images\Indian\Indian_2_600_C.jpg">
+      <PackagePath>Images\Indian\Indian_2_600_C.jpg</PackagePath>
+      <Modified>2014-09-24T07:27:12.859</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\documents\visual studio 2013\Projects\MyFirstApp\MyFirstApp\Images\Indian\Indian_3_150_C.jpg">
+      <PackagePath>Images\Indian\Indian_3_150_C.jpg</PackagePath>
+      <Modified>2014-09-24T07:27:12.861</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\documents\visual studio 2013\Projects\MyFirstApp\MyFirstApp\Images\Indian\Indian_3_600_C.jpg">
+      <PackagePath>Images\Indian\Indian_3_600_C.jpg</PackagePath>
+      <Modified>2014-09-24T07:27:12.862</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\documents\visual studio 2013\Projects\MyFirstApp\MyFirstApp\Images\Indian\Indian_4_150_C.jpg">
+      <PackagePath>Images\Indian\Indian_4_150_C.jpg</PackagePath>
+      <Modified>2014-09-24T07:27:12.864</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\documents\visual studio 2013\Projects\MyFirstApp\MyFirstApp\Images\Indian\Indian_4_600_C.jpg">
+      <PackagePath>Images\Indian\Indian_4_600_C.jpg</PackagePath>
+      <Modified>2014-09-24T07:27:12.866</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\documents\visual studio 2013\Projects\MyFirstApp\MyFirstApp\Images\Indian\Indian_5_150_C.jpg">
+      <PackagePath>Images\Indian\Indian_5_150_C.jpg</PackagePath>
+      <Modified>2014-09-24T07:27:12.867</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\documents\visual studio 2013\Projects\MyFirstApp\MyFirstApp\Images\Indian\Indian_5_600_C.jpg">
+      <PackagePath>Images\Indian\Indian_5_600_C.jpg</PackagePath>
+      <Modified>2014-09-24T07:27:12.869</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\documents\visual studio 2013\Projects\MyFirstApp\MyFirstApp\Images\Indian\Indian_6_150_C.jpg">
+      <PackagePath>Images\Indian\Indian_6_150_C.jpg</PackagePath>
+      <Modified>2014-09-24T07:27:12.871</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\documents\visual studio 2013\Projects\MyFirstApp\MyFirstApp\Images\Indian\Indian_6_600_C.jpg">
+      <PackagePath>Images\Indian\Indian_6_600_C.jpg</PackagePath>
+      <Modified>2014-09-24T07:27:12.873</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\documents\visual studio 2013\Projects\MyFirstApp\MyFirstApp\Images\Italian\Italian_1_150_C.jpg">
+      <PackagePath>Images\Italian\Italian_1_150_C.jpg</PackagePath>
+      <Modified>2014-09-24T07:27:12.880</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\documents\visual studio 2013\Projects\MyFirstApp\MyFirstApp\Images\Italian\Italian_1_600_C.jpg">
+      <PackagePath>Images\Italian\Italian_1_600_C.jpg</PackagePath>
+      <Modified>2014-09-24T07:27:12.882</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\documents\visual studio 2013\Projects\MyFirstApp\MyFirstApp\Images\Italian\Italian_2_150_C.jpg">
+      <PackagePath>Images\Italian\Italian_2_150_C.jpg</PackagePath>
+      <Modified>2014-09-24T07:27:12.895</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\documents\visual studio 2013\Projects\MyFirstApp\MyFirstApp\Images\Italian\Italian_2_600_C.jpg">
+      <PackagePath>Images\Italian\Italian_2_600_C.jpg</PackagePath>
+      <Modified>2014-09-24T07:27:12.897</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\documents\visual studio 2013\Projects\MyFirstApp\MyFirstApp\Images\Italian\Italian_3_150_C.jpg">
+      <PackagePath>Images\Italian\Italian_3_150_C.jpg</PackagePath>
+      <Modified>2014-09-24T07:27:12.899</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\documents\visual studio 2013\Projects\MyFirstApp\MyFirstApp\Images\Italian\Italian_3_600_C.jpg">
+      <PackagePath>Images\Italian\Italian_3_600_C.jpg</PackagePath>
+      <Modified>2014-09-24T07:27:12.901</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\documents\visual studio 2013\Projects\MyFirstApp\MyFirstApp\Images\Italian\Italian_4_150_C.jpg">
+      <PackagePath>Images\Italian\Italian_4_150_C.jpg</PackagePath>
+      <Modified>2014-09-24T07:27:12.903</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\documents\visual studio 2013\Projects\MyFirstApp\MyFirstApp\Images\Italian\Italian_4_310_C.jpg">
+      <PackagePath>Images\Italian\Italian_4_310_C.jpg</PackagePath>
+      <Modified>2014-09-24T07:27:12.904</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\documents\visual studio 2013\Projects\MyFirstApp\MyFirstApp\Images\Italian\Italian_4_600_C.jpg">
+      <PackagePath>Images\Italian\Italian_4_600_C.jpg</PackagePath>
+      <Modified>2014-09-24T07:27:12.906</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\documents\visual studio 2013\Projects\MyFirstApp\MyFirstApp\Images\Italian\Italian_5_150_C.jpg">
+      <PackagePath>Images\Italian\Italian_5_150_C.jpg</PackagePath>
+      <Modified>2014-09-24T07:27:12.907</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\documents\visual studio 2013\Projects\MyFirstApp\MyFirstApp\Images\Italian\Italian_5_310_C.jpg">
+      <PackagePath>Images\Italian\Italian_5_310_C.jpg</PackagePath>
+      <Modified>2014-09-24T07:27:12.909</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\documents\visual studio 2013\Projects\MyFirstApp\MyFirstApp\Images\Italian\Italian_5_600_C.jpg">
+      <PackagePath>Images\Italian\Italian_5_600_C.jpg</PackagePath>
+      <Modified>2014-09-24T07:27:12.911</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\documents\visual studio 2013\Projects\MyFirstApp\MyFirstApp\Images\Italian\Italian_6_150_C.jpg">
+      <PackagePath>Images\Italian\Italian_6_150_C.jpg</PackagePath>
+      <Modified>2014-09-24T07:27:12.917</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\documents\visual studio 2013\Projects\MyFirstApp\MyFirstApp\Images\Italian\Italian_6_600_C.jpg">
+      <PackagePath>Images\Italian\Italian_6_600_C.jpg</PackagePath>
+      <Modified>2014-09-24T07:27:12.919</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\documents\visual studio 2013\Projects\MyFirstApp\MyFirstApp\Images\LOGO\dejia.jpg">
+      <PackagePath>Images\LOGO\dejia.jpg</PackagePath>
+      <Modified>2014-09-26T08:49:25.298</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\documents\visual studio 2013\Projects\MyFirstApp\MyFirstApp\Images\LOGO\fajia.jpg">
+      <PackagePath>Images\LOGO\fajia.jpg</PackagePath>
+      <Modified>2014-09-26T08:49:25.301</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\documents\visual studio 2013\Projects\MyFirstApp\MyFirstApp\Images\LOGO\xijia.jpg">
+      <PackagePath>Images\LOGO\xijia.jpg</PackagePath>
+      <Modified>2014-09-26T08:49:25.310</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\documents\visual studio 2013\Projects\MyFirstApp\MyFirstApp\Images\LOGO\yijia.jpg">
+      <PackagePath>Images\LOGO\yijia.jpg</PackagePath>
+      <Modified>2014-09-26T08:49:25.313</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\documents\visual studio 2013\Projects\MyFirstApp\MyFirstApp\Images\LOGO\yingchao.jpg">
+      <PackagePath>Images\LOGO\yingchao.jpg</PackagePath>
+      <Modified>2014-09-26T08:49:25.316</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\documents\visual studio 2013\Projects\MyFirstApp\MyFirstApp\Images\Mexican\Mexican_1_150_C.jpg">
+      <PackagePath>Images\Mexican\Mexican_1_150_C.jpg</PackagePath>
+      <Modified>2014-09-24T07:27:12.926</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\documents\visual studio 2013\Projects\MyFirstApp\MyFirstApp\Images\Mexican\Mexican_1_600_C.jpg">
+      <PackagePath>Images\Mexican\Mexican_1_600_C.jpg</PackagePath>
+      <Modified>2014-09-24T07:27:12.928</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\documents\visual studio 2013\Projects\MyFirstApp\MyFirstApp\Images\Mexican\Mexican_2_150_C.jpg">
+      <PackagePath>Images\Mexican\Mexican_2_150_C.jpg</PackagePath>
+      <Modified>2014-09-24T07:27:12.930</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\documents\visual studio 2013\Projects\MyFirstApp\MyFirstApp\Images\Mexican\Mexican_2_600_C.jpg">
+      <PackagePath>Images\Mexican\Mexican_2_600_C.jpg</PackagePath>
+      <Modified>2014-09-24T07:27:12.932</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\documents\visual studio 2013\Projects\MyFirstApp\MyFirstApp\Images\Mexican\Mexican_3_150_C.jpg">
+      <PackagePath>Images\Mexican\Mexican_3_150_C.jpg</PackagePath>
+      <Modified>2014-09-24T07:27:12.934</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\documents\visual studio 2013\Projects\MyFirstApp\MyFirstApp\Images\Mexican\Mexican_3_600_C.jpg">
+      <PackagePath>Images\Mexican\Mexican_3_600_C.jpg</PackagePath>
+      <Modified>2014-09-24T07:27:12.935</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\documents\visual studio 2013\Projects\MyFirstApp\MyFirstApp\Images\Mexican\Mexican_4_150_C.jpg">
+      <PackagePath>Images\Mexican\Mexican_4_150_C.jpg</PackagePath>
+      <Modified>2014-09-24T07:27:12.937</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\documents\visual studio 2013\Projects\MyFirstApp\MyFirstApp\Images\Mexican\Mexican_4_600_C.jpg">
+      <PackagePath>Images\Mexican\Mexican_4_600_C.jpg</PackagePath>
+      <Modified>2014-09-24T07:27:12.938</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\documents\visual studio 2013\Projects\MyFirstApp\MyFirstApp\Images\Mexican\Mexican_5_150_C.jpg">
+      <PackagePath>Images\Mexican\Mexican_5_150_C.jpg</PackagePath>
+      <Modified>2014-09-24T07:27:12.940</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\documents\visual studio 2013\Projects\MyFirstApp\MyFirstApp\Images\Mexican\Mexican_5_600_C.jpg">
+      <PackagePath>Images\Mexican\Mexican_5_600_C.jpg</PackagePath>
+      <Modified>2014-09-24T07:27:12.942</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\documents\visual studio 2013\Projects\MyFirstApp\MyFirstApp\Images\Mexican\Mexican_6_150_C.jpg">
+      <PackagePath>Images\Mexican\Mexican_6_150_C.jpg</PackagePath>
+      <Modified>2014-09-24T07:27:12.943</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\documents\visual studio 2013\Projects\MyFirstApp\MyFirstApp\Images\Mexican\Mexican_6_600_C.jpg">
+      <PackagePath>Images\Mexican\Mexican_6_600_C.jpg</PackagePath>
+      <Modified>2014-09-24T07:27:12.945</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\documents\visual studio 2013\Projects\MyFirstApp\MyFirstApp\Images\Peppers.jpg">
+      <PackagePath>Images\Peppers.jpg</PackagePath>
+      <Modified>2014-09-26T09:11:03.034</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\documents\visual studio 2013\Projects\MyFirstApp\MyFirstApp\Images\Tiles\Chinese_6_310_C.jpg">
+      <PackagePath>Images\Tiles\Chinese_6_310_C.jpg</PackagePath>
+      <Modified>2014-09-24T07:27:12.955</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\documents\visual studio 2013\Projects\MyFirstApp\MyFirstApp\Images\Tiles\French_2_310_C.jpg">
+      <PackagePath>Images\Tiles\French_2_310_C.jpg</PackagePath>
+      <Modified>2014-09-24T07:27:12.956</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\documents\visual studio 2013\Projects\MyFirstApp\MyFirstApp\Images\Tiles\German_4_310_C.jpg">
+      <PackagePath>Images\Tiles\German_4_310_C.jpg</PackagePath>
+      <Modified>2014-09-24T07:27:12.991</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\documents\visual studio 2013\Projects\MyFirstApp\MyFirstApp\Images\Tiles\Italian_4_310_C.jpg">
+      <PackagePath>Images\Tiles\Italian_4_310_C.jpg</PackagePath>
+      <Modified>2014-09-24T07:27:12.992</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\documents\visual studio 2013\Projects\MyFirstApp\MyFirstApp\Images\Tiles\Italian_5_310_C.jpg">
+      <PackagePath>Images\Tiles\Italian_5_310_C.jpg</PackagePath>
+      <Modified>2014-09-24T07:27:12.994</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\documents\visual studio 2013\Projects\MyFirstApp\MyFirstApp\Images\Vegetables.jpg">
+      <PackagePath>Images\Vegetables.jpg</PackagePath>
+      <Modified>2014-09-26T09:09:38.470</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\documents\visual studio 2013\Projects\MyFirstApp\MyFirstApp\XML\resource.xml">
+      <PackagePath>XML\resource.xml</PackagePath>
+      <Modified>2014-09-28T00:31:14.539</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\documents\visual studio 2013\Projects\MyFirstApp\MyFirstApp\DataModel\SampleData.json">
+      <PackagePath>DataModel\SampleData.json</PackagePath>
+      <Modified>2014-09-29T08:46:55.009</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\documents\visual studio 2013\Projects\MyFirstApp\MyFirstApp\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2014-09-29T07:19:55.678</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\documents\visual studio 2013\Projects\MyFirstApp\MyFirstApp\bin\Debug\HubPage.xbf">
+      <PackagePath>HubPage.xbf</PackagePath>
+      <Modified>2014-09-29T07:44:22.092</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\documents\visual studio 2013\Projects\MyFirstApp\MyFirstApp\bin\Debug\ItemMediaPage.xbf">
+      <PackagePath>ItemMediaPage.xbf</PackagePath>
+      <Modified>2014-09-29T07:44:22.093</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\documents\visual studio 2013\Projects\MyFirstApp\MyFirstApp\bin\Debug\NewsDetail.xbf">
+      <PackagePath>NewsDetail.xbf</PackagePath>
+      <Modified>2014-09-29T07:19:55.679</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\documents\visual studio 2013\Projects\MyFirstApp\MyFirstApp\bin\Debug\PlaybackPage.xbf">
+      <PackagePath>PlaybackPage.xbf</PackagePath>
+      <Modified>2014-09-29T07:44:22.093</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\documents\visual studio 2013\Projects\MyFirstApp\MyFirstApp\bin\Debug\SearchResultsPage.xbf">
+      <PackagePath>SearchResultsPage.xbf</PackagePath>
+      <Modified>2014-09-29T07:19:55.680</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\documents\visual studio 2013\Projects\MyFirstApp\MyFirstApp\bin\Debug\SectionPage.xbf">
+      <PackagePath>SectionPage.xbf</PackagePath>
+      <Modified>2014-09-29T07:19:55.680</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\documents\visual studio 2013\Projects\MyFirstApp\MyFirstApp\bin\Debug\ItemPage.xbf">
+      <PackagePath>ItemPage.xbf</PackagePath>
+      <Modified>2014-09-29T07:44:22.093</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\documents\visual studio 2013\Projects\MyFirstApp\MyFirstApp\bin\Debug\MyFirstApp.xr.xml">
+      <PackagePath>MyFirstApp.xr.xml</PackagePath>
+      <Modified>2014-09-29T07:44:22.040</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\documents\visual studio 2013\Projects\MyFirstApp\MyFirstApp\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2014-09-29T08:39:56.442</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

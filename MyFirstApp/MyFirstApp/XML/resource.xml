@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<park>
+  <Company>
+    <Id>C0001</Id>
+    <Name>Comany 1</Name>
+    <Introduction>
+      Introduction 1
+    </Introduction>
+    <ImageUrl>Images/Company/C0001.jpg</ImageUrl>
+    <PointX>31.489495</PointX>
+    <PointY>120.373496</PointY>
+  </Company>
+  <Company>
+    <Id>C0002</Id>
+    <Name>Comany 2</Name>
+    <Introduction>
+      Introduction 2
+    </Introduction>
+    <ImageUrl>Images/Company/C0002.jpg</ImageUrl>
+    <PointX>31.489495</PointX>
+    <PointY>120.373496</PointY>
+  </Company>
+</park>
